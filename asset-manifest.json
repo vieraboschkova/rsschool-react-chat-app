@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rsschool-react-chat-app/static/css/main.9d3d3916.chunk.css",
+    "main.js": "/rsschool-react-chat-app/static/js/main.fe3dd56e.chunk.js",
+    "main.js.map": "/rsschool-react-chat-app/static/js/main.fe3dd56e.chunk.js.map",
+    "runtime-main.js": "/rsschool-react-chat-app/static/js/runtime-main.7922fc26.js",
+    "runtime-main.js.map": "/rsschool-react-chat-app/static/js/runtime-main.7922fc26.js.map",
+    "static/css/2.a4ccb03d.chunk.css": "/rsschool-react-chat-app/static/css/2.a4ccb03d.chunk.css",
+    "static/js/2.11689184.chunk.js": "/rsschool-react-chat-app/static/js/2.11689184.chunk.js",
+    "static/js/2.11689184.chunk.js.map": "/rsschool-react-chat-app/static/js/2.11689184.chunk.js.map",
+    "index.html": "/rsschool-react-chat-app/index.html",
+    "precache-manifest.472e716856184b30c3921ffcd0ad45cf.js": "/rsschool-react-chat-app/precache-manifest.472e716856184b30c3921ffcd0ad45cf.js",
+    "service-worker.js": "/rsschool-react-chat-app/service-worker.js",
+    "static/css/2.a4ccb03d.chunk.css.map": "/rsschool-react-chat-app/static/css/2.a4ccb03d.chunk.css.map",
+    "static/css/main.9d3d3916.chunk.css.map": "/rsschool-react-chat-app/static/css/main.9d3d3916.chunk.css.map",
+    "static/js/2.11689184.chunk.js.LICENSE.txt": "/rsschool-react-chat-app/static/js/2.11689184.chunk.js.LICENSE.txt",
+    "static/media/notifications.css": "/rsschool-react-chat-app/static/media/notification.c0d3c94c.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7922fc26.js",
+    "static/css/2.a4ccb03d.chunk.css",
+    "static/js/2.11689184.chunk.js",
+    "static/css/main.9d3d3916.chunk.css",
+    "static/js/main.fe3dd56e.chunk.js"
+  ]
+}
