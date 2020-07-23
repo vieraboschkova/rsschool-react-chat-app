@@ -66,7 +66,10 @@ class App extends Component {
                 const messageFromServer = JSON.parse(event.data)
                 this.addMessage(messageFromServer)
                 console.log(messageFromServer)
-                showPush(messageFromServer[0].from)
+                if (messageFromServer[0]) {
+                    showPush(messageFromServer[0].from)
+                }
+                
             }
         }
     }
